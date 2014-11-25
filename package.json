@@ -39,6 +39,11 @@
     "hiv",
     "charity"
   ],
+  "author": {
+    "name": "Mario Nebl",
+    "email": "hello@mario-nebl.de",
+    "url": "http://mario-nebl.de"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dothiv/dothivify/issues"
