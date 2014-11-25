@@ -1,11 +1,11 @@
 {
   "name": "dothivify",
   "version": "0.0.2",
-  "description": "Place digital stumbling blocks on your website to support the great cause of https://click4life.hiv/de",
+  "description": "Place digital stumbling blocks on your website to support the cause of dotHIV",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marionebl/dothivify.git"
+    "url": "https://github.com/dothiv/dothivify.git"
   },
   "scripts": {
     "start": "npm run serve",
@@ -39,16 +39,11 @@
     "hiv",
     "charity"
   ],
-  "author": {
-    "name": "dotHIV gemeinnuetziger e.V.",
-    "email": "charity@click4life.hiv",
-    "url": "https://click4life.hiv/en/c/contact"
-  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marionebl/dothivify/issues"
+    "url": "https://github.com/dothiv/dothivify/issues"
   },
-  "homepage": "https://github.com/marionebl/dothivify",
+  "homepage": "https://github.com/dothiv/dothivify",
   "devDependencies": {
     "beefy": "^2.1.1",
     "browserify": "^6.3.2",

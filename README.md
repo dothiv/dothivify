@@ -16,17 +16,9 @@ Basically, it helps you helping us making the world a tiny bit better: dothivify
 * Configure the dothivify script as you wish (our go with the turnkey solution)
 * Embedd it at the end of your document's `<body>` tag
 
-##### 2. Using npm and browserify
+##### 2. Build it yourself
 ```bash
-npm install --save dothivify
-```
-```js
-require('dothivify')({});
-```
-
-##### 3. Build it yourself
-```bash
-git clone git@github.com:marionebl/dothivify.git
+git clone https://github.com/dothiv/dothivify.git
 cd dothivify
 npm install
 npm run build
@@ -47,4 +39,4 @@ npm run build
 * `offset` - Offset between dots and popovers
 
 #### License
-dothivify is published under the MIT License. See the [License File](https://github.com/marionebl/dothivify/blob/master/LICENSE) for details.
+dothivify is published under the MIT License. See the [License File](https://github.com/dothiv/dothivify/blob/master/LICENSE) for details.
