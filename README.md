@@ -1,6 +1,8 @@
 dothivify
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dothiv/dothivify.svg)](https://greenkeeper.io/)
+
 Place digital stumbling blocks on your website to support the cause of [dotHIV](https://click4life.hiv/)
 
 * Support the fight against HIV
