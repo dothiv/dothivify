@@ -51,13 +51,13 @@
   "homepage": "https://github.com/dothiv/dothivify",
   "devDependencies": {
     "beefy": "^2.1.1",
-    "browserify": "^6.3.2",
+    "browserify": "^14.3.0",
     "closurecompiler": "^1.5.1",
     "dot": "^1.0.2",
-    "dotify": "0.0.2",
-    "gzip-size": "^1.0.0",
+    "dotify": "1.1.0",
+    "gzip-size": "^3.0.0",
     "mkdirp": "^0.5.0",
-    "pretty-bytes": "^1.0.1",
+    "pretty-bytes": "^4.0.2",
     "uglify": "^0.1.0"
   }
 }
